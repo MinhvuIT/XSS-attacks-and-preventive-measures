@@ -1,0 +1,4 @@
+1. VS Code (Trình soạn thảo code):
+Link: https://code.visualstudio.com/Download
+2.XAMPP (Tạo môi trường Web PHP & MySQL)
+Link:https://www.apachefriends.org/download.html

